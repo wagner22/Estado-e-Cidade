@@ -1,0 +1,26 @@
+.estados{
+    color:rgb(247, 245, 245);
+    padding-left: 70px;
+}
+.sul{
+    text-align: center;
+    color: rgb(243, 6, 6);
+    margin-bottom: auto;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgb(255, 0, 0);
+}
+.border{
+    border: 4px;
+}
+
+.cidades{
+    color: rgb(246, 245, 247);
+}
+body{
+    color: rgb(10, 10, 10);
+    background-color: rgb(255, 255, 255);
+}
+
